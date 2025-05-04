@@ -1,5 +1,5 @@
 # **Data Wrangling**
-
+"""
 We now have the df_combined dataset (containing the meteorogical data) and the df_fires_elevation data (containing the fire and elevation data). The 2 datasets are merged.
 """
 
