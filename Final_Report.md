@@ -1,3 +1,4 @@
+Submitted as part of coursework for GEOG5302M: Data Science for Practical Applications
 # **Data Science Mini Project**
 
 ## Investigating Environmental Drivers of Wildfire Intensity in the UK: Spatial Patterns and Influencing Factors
